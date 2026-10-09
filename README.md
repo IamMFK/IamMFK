@@ -12,6 +12,22 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
 </p>
 
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/IamMFK/ragbar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/IamMFK/snake">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/IamMFK/snakes-and-ladders">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=tokyonight" />
+  </a>
+</p>
+
+
+
 ### Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/mahdi-farasat-kish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-farasat-kish/" height="30" width="40" /></a>
