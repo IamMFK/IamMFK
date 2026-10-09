@@ -16,7 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/IamMFK/ragbar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&theme=synthwave" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&&bg_color=121214&title_color=ff3333&icon_color=ff6600&text_color=e1e1e6&border_color=ff3333" />
   </a>
   <a href="https://github.com/IamMFK/snake">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&theme=radical" />
