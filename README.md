@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&bg_color=0b0c10&title_color=66fcf1&icon_color=45a29e&text_color=c5c6c7&border_color=1f2833" alt="Ragbar" />
   </a>
   <a href="https://github.com/IamMFK/snake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&bg_color=f8fafc&title_color=1d6fc4&icon_color=d99800&text_color=475569&border_color=e2e8f0" alt="Snake Game" />
   </a>
     <a href="https://github.com/IamMFK/snakes-and-ladders">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=cyberpunk" />
