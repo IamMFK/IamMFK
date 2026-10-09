@@ -22,11 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&bg_color=f8fafc&title_color=1d6fc4&icon_color=d99800&text_color=475569&border_color=e2e8f0" alt="Snake Game" />
   </a>
     <a href="https://github.com/IamMFK/snakes-and-ladders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=cyberpunk" />
-  </a>
-    </a>
-    <a href="https://github.com/IamMFK/snakes-and-ladders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&bg_color=f7f8ff&title_color=6d5dfc&icon_color=d56c60&text_color=5a6578&border_color=e0e4fa" alt="Snakes and Ladders" />
   </a>
 </p>
 
