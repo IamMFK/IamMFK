@@ -14,15 +14,19 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/IamMFK/ragbar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&theme=synthwave" />
   </a>
   <a href="https://github.com/IamMFK/snake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&theme=radical" />
   </a>
     <a href="https://github.com/IamMFK/snakes-and-ladders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=cyberpunk " />
+  </a>
+    </a>
+    <a href="https://github.com/IamMFK/snakes-and-ladders">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&theme=dracula " />
   </a>
 </p>
 
