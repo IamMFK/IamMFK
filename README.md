@@ -25,12 +25,12 @@
 
 <p align="left">
   <a href="https://github.com/IamMFK/ragbar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&bg_color=1e232d&title_color=45dfd5&icon_color=66fcf1&text_color=94a3b8&border_color=2e3846" alt="Ragbar" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&bg_color=1e232d&title_color=45dfd5&icon_color=66fcf1&text_color=94a3b8&border_color=2e3846&v=2" alt="Ragbar" />
   </a>
   <a href="https://github.com/IamMFK/snake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&bg_color=1e232d&title_color=4da3ff&icon_color=ffca57&text_color=94a3b8&border_color=2e3846" alt="Snake" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&bg_color=1e232d&title_color=4da3ff&icon_color=ffca57&text_color=94a3b8&border_color=2e3846&v=2" alt="Snake" />
   </a>
   <a href="https://github.com/IamMFK/snakes-and-ladders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&bg_color=1e232d&title_color=9d7dff&icon_color=f87171&text_color=94a3b8&border_color=2e3846" alt="Snakes and Ladders" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&bg_color=1e232d&title_color=9d7dff&icon_color=f87171&text_color=94a3b8&border_color=2e3846&v=2" alt="Snakes and Ladders" />
   </a>
 </p>
