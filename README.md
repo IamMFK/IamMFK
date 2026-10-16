@@ -7,28 +7,28 @@
 
 Explore my browser games. Click any screenshot to play!
 
-### Maze
+### Maze (راه و بیراه)
 [![Maze](https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png)](https://iammfk.github.io/maze/)
 
 [▶ Play Game](https://iammfk.github.io/maze/) · [Source Code](https://github.com/IamMFK/maze)
 
 ---
 
-### Ragbar
+### Ragbar (رگبار)
 [![Ragbar](https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png)](https://iammfk.github.io/ragbar/)
 
 [▶ Play Game](https://iammfk.github.io/ragbar/) · [Source Code](https://github.com/IamMFK/ragbar)
 
 ---
 
-### Snake
+### Snake (مار)
 [![Snake](https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png)](https://iammfk.github.io/snake/)
 
 [▶ Play Game](https://iammfk.github.io/snake/) · [Source Code](https://github.com/IamMFK/snake)
 
 ---
 
-### Snakes and Ladders
+### Snakes and Ladders (مار و پله)
 [![Snakes and Ladders](https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png)](https://iammfk.github.io/snakes-and-ladders/)
 
 [▶ Play Game](https://iammfk.github.io/snakes-and-ladders/) · [Source Code](https://github.com/IamMFK/snakes-and-ladders)
@@ -39,7 +39,7 @@ Explore my browser games. Click any screenshot to play!
 
 ---
 
-## 🛠️ Technologies & Skills
+## 🛠️ My Technologies & Skills
 
 **Languages:** C# · JavaScript · HTML · CSS
 
@@ -49,20 +49,8 @@ Explore my browser games. Click any screenshot to play!
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a software engineer specializing in C#/.NET development, with experience in technical leadership, software architecture, and building maintainable applications.
-
-I enjoy solving complex technical problems, improving code quality, and helping teams build reliable software.
-
-Outside my day-to-day work, I develop browser games and experiment with gameplay mechanics, user experience, and interactive design.
-
----
-
 <div align="center">
 
 **Thanks for visiting!**
-
-*Build something useful. Create something fun.*
 
 </div>
