@@ -1,36 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">Software Engineer (C# / .NET) | Team Lead</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mahdi-farasat-kish/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/c/@csharpbookofficial"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
----
+<br/>
 
 ### 🎮 My Side Quests
 
-<p align="left">
-  <a href="https://github.com/IamMFK/ragbar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=ragbar&bg_color=1e232d&title_color=45dfd5&icon_color=66fcf1&text_color=94a3b8&border_color=2e3846&v=2" alt="Ragbar" />
-  </a>
-  <a href="https://github.com/IamMFK/snake">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snake&bg_color=1e232d&title_color=4da3ff&icon_color=ffca57&text_color=94a3b8&border_color=2e3846&v=2" alt="Snake" />
-  </a>
-  <a href="https://github.com/IamMFK/snakes-and-ladders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IamMFK&repo=snakes-and-ladders&bg_color=1e232d&title_color=9d7dff&icon_color=f87171&text_color=94a3b8&border_color=2e3846&v=2" alt="Snakes and Ladders" />
-  </a>
+Explore my browser games. Click any screenshot to play!
+
+| Ragbar | Snake | Snakes and Ladders |
+|:---:|:---:|:---:|
+| [![Ragbar](https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png)](https://iammfk.github.io/ragbar/) | [![Snake](https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png)](https://iammfk.github.io/snake/) | [![Snakes and Ladders](https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png)](https://iammfk.github.io/snakes-and-ladders/) |
+| [▶ Play Game](https://iammfk.github.io/ragbar/) · [Source Code](https://github.com/IamMFK/ragbar) | [▶ Play Game](https://iammfk.github.io/snake/) · [Source Code](https://github.com/IamMFK/snake) | [▶ Play Game](https://iammfk.github.io/snakes-and-ladders/) · [Source Code](https://github.com/IamMFK/snakes-and-ladders) |
+
+<p align="center">
+  <a href="https://github.com/IamMFK?tab=repositories">Explore All Projects →</a>
 </p>
+
+---
+
+## 🛠️ Technologies & Skills
+
+**Languages:** C# · JavaScript · HTML · CSS
+
+**Backend & Architecture:** .NET · Clean Architecture · REST APIs
+
+**Tools & Practices:** Git · Docker · Software Design · Code Review
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer specializing in C#/.NET development, with experience in technical leadership, software architecture, and building maintainable applications.
+
+I enjoy solving complex technical problems, improving code quality, and helping teams build reliable software.
+
+Outside my day-to-day work, I develop browser games and experiment with gameplay mechanics, user experience, and interactive design.
+
+---
+
+<div align="center">
+
+**Thanks for visiting!**
+
+*Build something useful. Create something fun.*
+
+</div>
