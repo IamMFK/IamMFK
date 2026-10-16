@@ -39,16 +39,6 @@ Explore my browser games. Click any screenshot to play!
 
 ---
 
-## 🛠️ My Technologies & Skills
-
-**Languages:** C# · JavaScript · HTML · CSS
-
-**Backend & Architecture:** .NET · Clean Architecture · REST APIs
-
-**Tools & Practices:** Git · Docker · Software Design · Code Review
-
----
-
 <div align="center">
 
 **Thanks for visiting!**
