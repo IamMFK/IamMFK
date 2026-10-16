@@ -8,7 +8,7 @@
 Explore my browser games. Click any screenshot to play!
 
 | Maze | Ragbar | Snake | Snakes and Ladders |
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | [![Maze](https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png)](https://iammfk.github.io/maze/) 
 | [![Ragbar](https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png)](https://iammfk.github.io/ragbar/) | [![Snake](https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png)](https://iammfk.github.io/snake/) | [![Snakes and Ladders](https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png)](https://iammfk.github.io/snakes-and-ladders/) |
 | [▶ Play Game](https://iammfk.github.io/maze/) · [Source Code](https://github.com/IamMFK/maze) | [▶ Play Game](https://iammfk.github.io/ragbar/) · [Source Code](https://github.com/IamMFK/ragbar) | [▶ Play Game](https://iammfk.github.io/snake/) · [Source Code](https://github.com/IamMFK/snake) | [▶ Play Game](https://iammfk.github.io/snakes-and-ladders/) · [Source Code](https://github.com/IamMFK/snakes-and-ladders) |
