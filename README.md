@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" dir="rtl">
- توسعه‌دهنده نرم‌افزار با تمرکز بر #C و NET.؛ علاقه‌مند به ساخت بازی‌ها با کمک هوش مصنوعی در اوقات فراغت.
+ توسعه‌دهنده نرم‌افزار با تمرکز بر #C و NET.؛ علاقه‌مند به ساخت بازی‌ با کمک هوش مصنوعی در اوقات فراغت.
 </p>
 
 <p align="center">
@@ -89,14 +89,6 @@
 
 ---
 
-## 🚀 پروژه‌های بیشتر | More Projects
-
 <p align="center">
-  <a href="https://github.com/IamMFK?tab=repositories">
-    <img src="https://img.shields.io/badge/مشاهده%20تمام%20پروژه‌ها-181717?style=for-the-badge&logo=github&logoColor=white" alt="مشاهده تمام پروژه‌ها در GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>ساخته‌شده با علاقه به برنامه‌نویسی و با کمک هوش مصنوعی · قابل اجرا در مرورگر · بدون نیاز به نصب</sub>
+  <a href="https://github.com/IamMFK?tab=repositories">Explore All Projects →</a>
 </p>
