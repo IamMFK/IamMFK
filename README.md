@@ -26,7 +26,7 @@ A collection of small browser games built for fun. Explore the projects, check o
   <tr>
     <td width="50%" valign="top">
       <a href="https://iammfk.github.io/maze/">
-        <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="100%" alt="Maze game preview" />
+        <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="100%" height="180 alt="Maze game preview" />
       </a>
       <h3>Maze</h3>
       Find your way through 20 challenging stages in a clean, pixel-inspired maze game.
@@ -39,7 +39,7 @@ A collection of small browser games built for fun. Explore the projects, check o
     </td>
     <td width="50%" valign="top">
       <a href="https://iammfk.github.io/ragbar/">
-        <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="100%" alt="Ragbar game preview" />
+        <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="100%" height="180 alt="Ragbar game preview" />
       </a>
       <h3>Ragbar</h3>
       A casual browser game with a simple concept and an enjoyable gameplay loop.
@@ -54,7 +54,7 @@ A collection of small browser games built for fun. Explore the projects, check o
   <tr>
     <td width="50%" valign="top">
       <a href="https://iammfk.github.io/snake/">
-        <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="100%" alt="Snake game preview" />
+        <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="100%" height="180 alt="Snake game preview" />
       </a>
       <h3>Snake</h3>
       A modern take on the classic Snake game, featuring smooth movement and a clean blue theme.
@@ -67,7 +67,7 @@ A collection of small browser games built for fun. Explore the projects, check o
     </td>
     <td width="50%" valign="top">
       <a href="https://iammfk.github.io/snakes-and-ladders/">
-        <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="100%" alt="Snakes and Ladders game preview" />
+        <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="100%" height="180 alt="Snakes and Ladders game preview" />
       </a>
       <h3>Snakes and Ladders</h3>
       Roll the dice, climb the ladders, and avoid the snakes. Play solo against the computer or with friends.
