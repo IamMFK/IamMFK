@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://iammfk.github.io/maze/">
-        <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="100%" height="180" alt="Maze - هزارتو" />
+        <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="100%" alt="Maze - هزارتو" />
       </a>
       <h3>Maze (هزارتو)</h3>
       <p dir="rtl" align="right">
@@ -42,7 +42,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://iammfk.github.io/ragbar/">
-        <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="100%" height="180" alt="Ragbar - رگبار" />
+        <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="100%" alt="Ragbar - رگبار" />
       </a>
       <h3>Ragbar (رگبار)</h3>
       <p dir="rtl" align="right">
@@ -58,7 +58,7 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://iammfk.github.io/snake/">
-        <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="100%" height="180" alt="Snake - مار" />
+        <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="100%" alt="Snake - مار" />
       </a>
       <h3>Snake (مار)</h3>
       <p dir="rtl" align="right">
@@ -72,7 +72,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://iammfk.github.io/snakes-and-ladders/">
-        <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="100%" height="180" alt="Snakes and Ladders - مار و پله" />
+        <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="100%" alt="Snakes and Ladders - مار و پله" />
       </a>
       <h3>Snakes and Ladders (مار و پله)</h3>
       <p dir="rtl" align="right">
