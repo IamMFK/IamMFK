@@ -20,72 +20,81 @@
 
 ## 🎮 بازی های من
 
-<p dir="rtl">
+<p dir="rtl" align="center">
  برای اجرای بازی‌ها نیازی به نصب برنامه نیست؛ کافی است روی «اجرای آنلاین» کلیک کنید.
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://iammfk.github.io/maze/">
-        <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="100%" alt="Maze - هزارتو" />
-      </a>
-      <h3>Maze (هزارتو)</h3>
-      <p dir="rtl" align="right">
-        راه خروج از هزارتو را پیدا کنید و مراحل مختلف را پشت سر بگذارید. یک بازی معمایی ساده با طراحی پیکسلی.
-      </p>
-      <p>
-        <a href="https://iammfk.github.io/maze/"><strong>▶ اجرای آنلاین</strong></a>
-        ·
-        <a href="https://github.com/IamMFK/maze">سورس کد</a>
-       </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://iammfk.github.io/ragbar/">
-        <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="100%" alt="Ragbar - رگبار" />
-      </a>
-      <h3>Ragbar (رگبار)</h3>
-      <p dir="rtl" align="right">
-        یک بازی مرورگری سرگرم‌کننده با گیم‌پلی ساده و مناسب برای چند دقیقه بازی در اوقات فراغت.
-      </p>
-      <p>
-        <a href="https://iammfk.github.io/ragbar/"><strong>▶ اجرای آنلاین</strong></a>
-        ·
-        <a href="https://github.com/IamMFK/ragbar">سورس کد</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://iammfk.github.io/snake/">
-        <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="100%" alt="Snake - مار" />
-      </a>
-      <h3>Snake (مار)</h3>
-      <p dir="rtl" align="right">
-        نسخه‌ای مدرن از بازی کلاسیک مار با تم آبی و تمرکز بر حرکت روان و تجربه بازی ساده و لذت‌بخش.
-      </p>
-      <p>
-        <a href="https://iammfk.github.io/snake/"><strong>▶ اجرای آنلاین</strong></a>
-        ·
-        <a href="https://github.com/IamMFK/snake">سورس کد</a>
-      </p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://iammfk.github.io/snakes-and-ladders/">
-        <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="100%" alt="Snakes and Ladders - مار و پله" />
-      </a>
-      <h3>Snakes and Ladders (مار و پله)</h3>
-      <p dir="rtl" align="right">
-        تاس بیندازید، از نردبان‌ها بالا بروید و مراقب مارها باشید. امکان بازی انفرادی در برابر کامپیوتر یا بازی چندنفره.
-      </p>
-      <p>
-        <a href="https://iammfk.github.io/snakes-and-ladders/"><strong>▶ اجرای آنلاین</strong></a>
-        ·
-        <a href="https://github.com/IamMFK/snakes-and-ladders">سورس کد</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
+
+<!-- Maze -->
+<div align="center">
+  <a href="https://iammfk.github.io/maze/">
+    <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Maze - هزارتو" />
+  </a>
+  <h3>Maze (هزارتو)</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    راه خروج از هزارتو را پیدا کنید و مراحل مختلف را پشت سر بگذارید. یک بازی معمایی ساده با طراحی پیکسلی.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/maze/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/maze">سورس کد</a>
+  </p>
+</div>
+
+<br><hr><br>
+
+<!-- Ragbar -->
+<div align="center">
+  <a href="https://iammfk.github.io/ragbar/">
+    <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Ragbar - رگبار" />
+  </a>
+  <h3>Ragbar (رگبار)</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    یک بازی مرورگری سرگرم‌کننده با گیم‌پلی ساده و مناسب برای چند دقیقه بازی در اوقات فراغت.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/ragbar/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/ragbar">سورس کد</a>
+  </p>
+</div>
+
+<br><hr><br>
+
+<!-- Snake -->
+<div align="center">
+  <a href="https://iammfk.github.io/snake/">
+    <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snake - مار" />
+  </a>
+  <h3>Snake (مار)</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    نسخه‌ای مدرن از بازی کلاسیک مار با تم آبی و تمرکز بر حرکت روان و تجربه بازی ساده و لذت‌بخش.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/snake/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/snake">سورس کد</a>
+  </p>
+</div>
+
+<br><hr><br>
+
+<!-- Snakes and Ladders -->
+<div align="center">
+  <a href="https://iammfk.github.io/snakes-and-ladders/">
+    <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snakes and Ladders - مار و پله" />
+  </a>
+  <h3>Snakes and Ladders (مار و پله)</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    تاس بیندازید، از نردبان‌ها بالا بروید و مراقب مارها باشید. امکان بازی انفرادی در برابر کامپیوتر یا بازی چندنفره.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/snakes-and-ladders/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/snakes-and-ladders">سورس کد</a>
+  </p>
+</div>
 
 ---
 
