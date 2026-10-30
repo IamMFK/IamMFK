@@ -28,8 +28,7 @@
 
 <!-- Memory -->
 <div align="center">
-
-    <img src="https://raw.githubusercontent.com/IamMFK/memory/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Memory - حافظه" />
+<img src="https://raw.githubusercontent.com/IamMFK/memory/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Memory - حافظه" />
   <h3>Memory (حافظه)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
     کارت‌های هم‌شکل را پیدا کنید و حافظه خود را بسنجید. دارای کمپین ۵۰ مرحله‌ای، رقابت با هوش مصنوعی، بازی چندنفره و ۱۰ تم گرافیکی متنوع.
@@ -45,8 +44,7 @@
 
 <!-- Maze -->
 <div align="center">
-
-    <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Maze - هزارتو" />
+<img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Maze - هزارتو" />
   
   <h3>Maze (هزارتو)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
@@ -63,8 +61,7 @@
 
 <!-- Ragbar -->
 <div align="center">
-
-    <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Ragbar - رگبار" />
+<img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Ragbar - رگبار" />
  
   <h3>Ragbar (رگبار)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
@@ -81,8 +78,7 @@
 
 <!-- Snake -->
 <div align="center">
-
-    <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snake - مار" />
+<img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snake - مار" />
 
   <h3>Snake (مار)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
@@ -99,8 +95,7 @@
 
 <!-- Snakes and Ladders -->
 <div align="center">
-
-    <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snakes and Ladders - مار و پله" />
+<img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snakes and Ladders - مار و پله" />
   
   <h3>Snakes and Ladders (مار و پله)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
