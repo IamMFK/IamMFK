@@ -28,9 +28,8 @@
 
 <!-- Memory -->
 <div align="center">
-  <a href="https://iammfk.github.io/memory/">
+
     <img src="https://raw.githubusercontent.com/IamMFK/memory/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Memory - حافظه" />
-  </a>
   <h3>Memory (حافظه)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
     کارت‌های هم‌شکل را پیدا کنید و حافظه خود را بسنجید. دارای کمپین ۵۰ مرحله‌ای، رقابت با هوش مصنوعی، بازی چندنفره و ۱۰ تم گرافیکی متنوع.
@@ -46,9 +45,9 @@
 
 <!-- Maze -->
 <div align="center">
-  <a href="https://iammfk.github.io/maze/">
+
     <img src="https://raw.githubusercontent.com/IamMFK/maze/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Maze - هزارتو" />
-  </a>
+  
   <h3>Maze (هزارتو)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
     راه خروج از هزارتو را پیدا کنید و مراحل مختلف را پشت سر بگذارید. یک بازی معمایی ساده با طراحی پیکسلی.
@@ -64,9 +63,9 @@
 
 <!-- Ragbar -->
 <div align="center">
-  <a href="https://iammfk.github.io/ragbar/">
+
     <img src="https://raw.githubusercontent.com/IamMFK/ragbar/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Ragbar - رگبار" />
-  </a>
+ 
   <h3>Ragbar (رگبار)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
     یک بازی مرورگری سرگرم‌کننده با گیم‌پلی ساده و مناسب برای چند دقیقه بازی در اوقات فراغت.
@@ -82,9 +81,9 @@
 
 <!-- Snake -->
 <div align="center">
-  <a href="https://iammfk.github.io/snake/">
+
     <img src="https://raw.githubusercontent.com/IamMFK/snake/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snake - مار" />
-  </a>
+
   <h3>Snake (مار)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
     نسخه‌ای مدرن از بازی کلاسیک مار با تم آبی و تمرکز بر حرکت روان و تجربه بازی ساده و لذت‌بخش.
@@ -100,9 +99,9 @@
 
 <!-- Snakes and Ladders -->
 <div align="center">
-  <a href="https://iammfk.github.io/snakes-and-ladders/">
+
     <img src="https://raw.githubusercontent.com/IamMFK/snakes-and-ladders/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Snakes and Ladders - مار و پله" />
-  </a>
+  
   <h3>Snakes and Ladders (مار و پله)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
     تاس بیندازید، از نردبان‌ها بالا بروید و مراقب مارها باشید. امکان بازی انفرادی در برابر کامپیوتر یا بازی چندنفره.
