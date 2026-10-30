@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/IamMFK/memory/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Memory - حافظه" />
   <h3>Memory (حافظه)</h3>
   <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
-    کارت‌های هم‌شکل را پیدا کنید و حافظه خود را بسنجید. دارای کمپین ۵۰ مرحله‌ای، رقابت با هوش مصنوعی، بازی چندنفره و ۱۰ تم گرافیکی متنوع.
+    کارت‌های هم‌شکل را پیدا کنید و حافظه خود را بسنجید. دارای کمپین ۵۰ مرحله‌ای، رقابت با حریف مجازی، بازی چندنفره و ۱۰ تم گرافیکی متنوع.
   </p>
   <p>
     <a href="https://iammfk.github.io/memory/"><strong>▶ اجرای آنلاین</strong></a>
