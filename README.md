@@ -26,6 +26,22 @@
 
 <br>
 
+<!-- Gozar -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/IamMFK/gozar/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Gozar - گذر" />
+  <h3>Gozar (گذر)</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    یک بازی رانر بی‌پایان (Endless Runner) با قابلیت چرخش دنیاها، تغییر فصل‌ها و گذر زمان شبانه‌روز. با محیط‌های متنوع و مکانیک‌های روان.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/gozar/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/gozar">سورس کد</a>
+  </p>
+</div>
+
+<br><hr><br>
+
 <!-- Memory -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/IamMFK/memory/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Memory - حافظه" />
