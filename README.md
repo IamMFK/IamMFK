@@ -25,6 +25,21 @@
 </p>
 
 <br>
+<!-- Word Guess -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IamMFK/word-guess/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Word Guess - حدس کلمه" />
+  <h3>Word Guess (حدس کلمه)</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    همراه با ربات «نوا»، حروف را کشف کنید و واژه‌های پنهان را بسازید. یک ماجراجویی فضایی با پشتیبانی از فارسی و انگلیسی، سفر ۳۰ مرحله‌ای در ۵ سیاره و چالش زمان‌دار ۱۲۰ ثانیه‌ای.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/word-guess/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/word-guess">سورس کد</a>
+  </p>
+</div>
+
+<br><hr><br>
 
 <!-- Gozar -->
 <div align="center">
