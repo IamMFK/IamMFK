@@ -24,7 +24,24 @@
  برای اجرای بازی‌ها نیازی به نصب برنامه نیست؛ کافی است روی «اجرای آنلاین» کلیک کنید.
 </p>
 
-<br>
+<br><hr><br>
+
+<!-- Bubble Shooter -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/IamMFK/bubble-shooter/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Bubble Shooter" />
+  <h3>Bubble Shooter</h3>
+  <p dir="rtl" style="max-width: 600px; margin: 0 auto;">
+    نشانه بگیرید و حباب‌های هم‌رنگ را کنار هم بزنید تا حذف شوند. در حالت کلاسیک ۵۰ مرحله را پشت سر بگذارید یا در حالت بی‌پایان، پیش از رسیدن حباب‌ها به خط خطر، ردیف‌های تازه را پاک کنید.
+  </p>
+  <p>
+    <a href="https://iammfk.github.io/bubble-shooter/"><strong>▶ اجرای آنلاین</strong></a>
+    ·
+    <a href="https://github.com/IamMFK/bubble-shooter">سورس کد</a>
+  </p>
+</div>
+
+<br><hr><br>
+
 <!-- Word Guess -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/IamMFK/word-guess/main/.github/assets/preview.png" width="550px" style="max-width: 100%; border-radius: 8px;" alt="Word Guess - حدس کلمه" />
